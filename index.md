@@ -1,7 +1,7 @@
 
 ## 初级前端进阶
 
-### [es6](https://peasant1.github.io/gengPages/es6).
+### [es6](https://peasant1.github.io/gengPages/es6.md).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
